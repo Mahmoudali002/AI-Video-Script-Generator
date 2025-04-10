@@ -32,5 +32,5 @@ This project is ideal for content creators, marketers, and educators who want to
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-video-script-generator.git
+git clone https://github.com/Mahmoudali002/ai-video-script-generator.git
 cd ai-video-script-generator
